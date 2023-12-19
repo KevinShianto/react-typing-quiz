@@ -2,7 +2,7 @@
 
 Made with ReactJS and Typescript.
 
-[Live demo](https://kevinshianto.github.io/letter-typing-quiz/)
+[Live demo](https://kevinshianto.github.io/react-typing-quiz/)
 
 ## Installation
 
