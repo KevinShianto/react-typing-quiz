@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/letter-typing-quiz/static/css/main.1f8c331e.css",
-    "main.js": "/letter-typing-quiz/static/js/main.1a30c233.js",
-    "static/js/787.be7b2820.chunk.js": "/letter-typing-quiz/static/js/787.be7b2820.chunk.js",
-    "index.html": "/letter-typing-quiz/index.html",
-    "main.1f8c331e.css.map": "/letter-typing-quiz/static/css/main.1f8c331e.css.map",
-    "main.1a30c233.js.map": "/letter-typing-quiz/static/js/main.1a30c233.js.map",
-    "787.be7b2820.chunk.js.map": "/letter-typing-quiz/static/js/787.be7b2820.chunk.js.map"
+    "main.css": "/react-typing-quiz/static/css/main.1f8c331e.css",
+    "main.js": "/react-typing-quiz/static/js/main.23eb5554.js",
+    "static/js/787.be7b2820.chunk.js": "/react-typing-quiz/static/js/787.be7b2820.chunk.js",
+    "index.html": "/react-typing-quiz/index.html",
+    "main.1f8c331e.css.map": "/react-typing-quiz/static/css/main.1f8c331e.css.map",
+    "main.23eb5554.js.map": "/react-typing-quiz/static/js/main.23eb5554.js.map",
+    "787.be7b2820.chunk.js.map": "/react-typing-quiz/static/js/787.be7b2820.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1f8c331e.css",
-    "static/js/main.1a30c233.js"
+    "static/js/main.23eb5554.js"
   ]
 }
